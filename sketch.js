@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   ellipse( mouseX , mouseY , 200 , 200 ); 
-  fill( 239 , 2 , 2 , 30 );
-  stroke( 231 ,239 , 2);
+  fill( 80 , 66 , 244 , 30 );
+  stroke( 80 ,66 , 244 );
   triangle( 50 , 50 , 50 , 50 , 50 , 50 );
 }
