@@ -10,7 +10,7 @@ function draw() {
 }
 
 function draw() {
-  ellipse( mouseX , mouse Y , 100 , 100 );
+  ellipse( mouseX , mouseY , 100 , 100 );
   fill( 247 , 243 , 7 , 30 );
   sroke( 247 , 243 , 7 );
 
