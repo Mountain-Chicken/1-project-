@@ -6,6 +6,7 @@ function draw() {
   ellipse( mouseX , mouseY , 300 , 300 );
   fill( 255 , 0 , 0 );
   stroke( 255 , 0 , 0 );
+  rect( 300 , 300 , 300 , 300 );
   ellipse( mouseX , mouseY , 250 , 250 );
   fill( 255 , 165 , 0 );
   stroke( 255 , 165 , 0 );
