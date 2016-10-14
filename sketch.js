@@ -9,9 +9,4 @@ function draw() {
   
 }
 
-function draw() {
-  ellipse( mouseX , mouseY , 100 , 100 );
-  fill( 247 , 243 , 7 , 30 );
-  stroke( 247 , 243 , 7 );
 
-}  
