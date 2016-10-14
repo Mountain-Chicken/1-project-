@@ -3,12 +3,24 @@ function setup() {
 }
 
 function draw() {
-  ellipse( mouseX , mouseY , 500 , 500 );
-  fill( 80 , 66 , 244 );
-  stroke( 80 ,66 , 7 );
-  ellipse( mouseX , mouseY , 250 , 250 );
-  fill( 247 , 243 , 7 );
-  stroke( 247 , 243 , 208 );
+  ellipse( mouseX , mouseY , 100, 100 );
+  fill( 255 , 0 , 0 );
+  stroke( 255 , 0 , 0 );
+  ellipse( mouseX , mouseY , 90 , 90 );
+  fill( 255 , 165 , 0 );
+  stroke( 255 , 165 , 0 );
+  ellipse( mouseX , mouseY , 80 , 80 );
+  fill( 245 , 255 , 0 );
+  stroke( 245 , 255 , 0 );
+  ellipse( mouseX , mouseY , 70 , 70 );
+  fill( 65 , 255 , 0 );
+  stroke( 65 , 255 , 0 );
+   ellipse( mouseX , mouseY , 60 , 60 );
+  fill( 0 , 55 , 255 );
+  stroke( 0 ,55 , 255 );
+  ellipse( mouseX , mouseY , 50 , 50 );
+  fill( 175 , 15 , 170 );
+  stroke( 175 , 15 , 170 );
 
 } 
 
