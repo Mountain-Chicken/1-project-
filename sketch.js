@@ -4,8 +4,8 @@ function setup() {
 
 function draw() {
   rect( mouseX , mouseY , 300 , 100 );
-  fill( 255 , 0 , 0 );
-  stroke( 0 , 255 , 0 );
+  fill( 0 , 0 , 0 );
+  stroke( 0 , 0 , 0 );
     ellipse( mouseX , mouseY , 300 , 300 );
   fill( 255 , 0 , 0 );
   stroke( 255 , 0 , 0 );
