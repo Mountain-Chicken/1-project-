@@ -6,6 +6,10 @@ function draw() {
   ellipse( mouseX , mouseY , 200 , 200 );
   fill( 80 , 66 , 244 , 30 );
   stroke( 80 ,66 , 244 );
+  
+function setup() {
+  createCanvas( windowWidth , windowHeight ); 
+}  
  
 }
 
