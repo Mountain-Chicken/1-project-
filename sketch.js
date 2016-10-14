@@ -1,6 +1,9 @@
 function setup() {
   createCanvas( windowWidth , windowHeight ); 
-  elipse( 255 , 0 , 0 )
+ 
+  
+  BOOBSSS AND DICKS Troys fav
+  
 }
 
 function draw() {
