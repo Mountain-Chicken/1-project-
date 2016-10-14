@@ -7,9 +7,6 @@ function draw() {
   fill( 80 , 66 , 244 , 30 );
   stroke( 80 ,66 , 244 );
   
-}
-
-function draw2() { 
   ellipse( mouseX , mouseY , 100 , 100 );
   fill( 247 , 243 , 7 , 30 );
   stroke( 247 , 243 , 7 );
